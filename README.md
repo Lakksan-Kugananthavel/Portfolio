@@ -3,7 +3,9 @@
 This project applies wavelet analysis to address the challenges posed by the non-stationarity of financial time series. We performed a time-scale analysis of two major stock indexes in R utilizing the R package `wavethresh`, developed by Guy Nason.
 
 Specifically, we have investigated the market dynamics of the SnP 500 and FTSE 100 datasets over the period of February 2016-February 2024.
+
 ![SnP500](SnP500_StockData.png)
+
 ![FTSE100](FTSE100_StockData.png)
 
 ### Key Contributions:
