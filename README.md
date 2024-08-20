@@ -1,6 +1,10 @@
 # Wavelet Analysis of Non-Stationary Financial Time Series Data
 
-This project applies wavelet analysis to address the challenges posed by the non-stationarity of financial time series. We performed a time-scale analysis of two major stock indexes, the FTSE 100 and the S&P 500, utilizing the R package `wavethresh`, developed by Guy Nason.
+This project applies wavelet analysis to address the challenges posed by the non-stationarity of financial time series. We performed a time-scale analysis of two major stock indexes in R utilizing the R package `wavethresh`, developed by Guy Nason.
+
+Specifically, we have investigated the market dynamics of the SnP 500 and FTSE 100 datasets over the period of February 2016-February 2024.
+![SnP500](images/SnP500_StockData.png)
+![FTSE100](images/FTSE100_StockData.png)
 
 ### Key Contributions:
 - **Time-Scale Analysis:** We utilized the Evolutionary Wavelet Spectrum (EWS) to analyze the S&P 500 and FTSE 100 indexes, providing insights into variance over time at different scales.
