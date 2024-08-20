@@ -4,9 +4,9 @@ This project applies wavelet analysis to address the challenges posed by the non
 
 Specifically, we have investigated the market dynamics of the SnP 500 and FTSE 100 datasets over the period of February 2016-February 2024.
 
-![SnP500](SnP500_StockData.png)
+![SnP500](SnP_StockData.png)
 
-![FTSE100](FTSE100_StockData.png)
+![FTSE100](SnP_StockData.png)
 
 ### Key Contributions:
 - **Time-Scale Analysis:** We utilized the Evolutionary Wavelet Spectrum (EWS) to analyze the S&P 500 and FTSE 100 indexes, providing insights into variance over time at different scales.
