@@ -14,6 +14,9 @@ Specifically, we have investigated the market dynamics of the SnP 500 and FTSE 1
 - **Localized Autocorrelation:** By examining localized autocorrelations, we uncovered underlying linear relationships between lagged observations, enhancing the understanding of market dynamics.
 - **Historical Corroboration:** The results were consistent with real historical events and economic factors, confirming the reliability of the wavelet approach in capturing market behavior.
 
-<img src="SnP_EWS.png" alt="SnP 500 Evolutionary Wavelet Spectrum" width="50%">
+<div style="display: flex; justify-content: space-between;">
+  <img src="SnP500_DWT.png" alt="S&P 500 DWT" width="45%">
+  <img src="SnP_EWS.png" alt="SnP 500 Evolutionary Wavelet Spectrum" width="45%">
+</div>
 
 This project demonstrates the effectiveness of wavelet methodologies in financial time series analysis, providing detailed insights and visualizations of market behavior across various time scales. A more detailed explanation of the entire project, along with a thorough analysis and insights drawn, is provided in my Master's Dissertation, which is also included in this repository for completeness.
