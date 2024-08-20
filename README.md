@@ -9,9 +9,9 @@ Specifically, we have investigated the market dynamics of the SnP 500 and FTSE 1
 
 ### Key Points:
 - **Time-Scale Analysis:** We utilized the Evolutionary Wavelet Spectrum (EWS) to analyze the S&P 500 and FTSE 100 indexes, providing insights into variance over time at different scales.
-- **Market Volatility:** The analysis identified key periods of stock market volatility, including the impact of the COVID-19 pandemic in 2020 and the 2018 market fluctuations driven by interest rate changes and regulatory scrutiny on big tech.
+- **Market Volatility:** We identified key periods of stock market volatility, including the impact of the COVID-19 pandemic in 2020 and the 2018 market fluctuations driven by interest rate changes and regulatory scrutiny on big tech.
 - **Multiscale Visualization:** The multiscale nature of wavelet analysis allowed us to effectively visualize volatility across different time scales, offering a clear view of both short-term fluctuations and long-term trends.
-- **Localized Autocorrelation:** By examining localized autocorrelations, we uncovered underlying linear relationships between lagged observations, enhancing the understanding of market dynamics.
+- **Localized Autocorrelation:** Computed and examined the localized autocorrelations across various lags, uncovered underlying linear relationships and trends within the data, enhancing the understanding of market dynamics.
 - **Historical Corroboration:** The results were consistent with real historical events and economic factors, confirming the reliability of the wavelet approach in capturing market behavior.
 
 <div style="display: flex; justify-content: space-between;">
