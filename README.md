@@ -6,7 +6,7 @@ Specifically, we have investigated the market dynamics of the SnP 500 and FTSE 1
 
 ![SnP500](SnP_StockData.png)
 
-![FTSE100](SnP_StockData.png)
+![FTSE100](FSTE100_StockData.png)
 
 ### Key Contributions:
 - **Time-Scale Analysis:** We utilized the Evolutionary Wavelet Spectrum (EWS) to analyze the S&P 500 and FTSE 100 indexes, providing insights into variance over time at different scales.
