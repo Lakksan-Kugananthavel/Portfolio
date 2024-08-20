@@ -9,4 +9,4 @@ This project applies wavelet analysis to address the challenges posed by the non
 - **Localized Autocorrelation:** By examining localized autocorrelations, we uncovered underlying linear relationships between lagged observations, enhancing the understanding of market dynamics.
 - **Historical Corroboration:** The results were consistent with real historical events and economic factors, confirming the reliability of the wavelet approach in capturing market behavior.
 
-This project demonstrates the effectiveness of wavelet methodologies in financial time series analysis, providing detailed insights and visualizations of market behavior across various time scales.
+This project demonstrates the effectiveness of wavelet methodologies in financial time series analysis, providing detailed insights and visualizations of market behavior across various time scales. A more detailed explanation of the entire project, along with a thorough analysis and insights drawn, is provided in my Master's Dissertation, which is also included in this repository for completeness.
